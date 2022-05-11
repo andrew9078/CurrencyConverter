@@ -8,7 +8,12 @@
 This repository contains the files for Currency Converter 
 
 
-##Contributing
+## Contributing
 
+The guidelines for contributing is very straightforward
+
+Scan through the existing issues to see one you'd like to work on
+
+## Thank You!
 
 
