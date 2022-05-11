@@ -68,7 +68,7 @@ def main():
     useroutput = input("Now select a currency you wish to convert it to: ")
 
     if(userinput == useroutput):
-        return "Error, cannot convert one currency to another"
+        return "Error, cannot convert one currency to the same currency"
 
     complexity(userinput,useroutpout,useramount)
     
